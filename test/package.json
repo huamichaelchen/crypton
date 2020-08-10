@@ -4,6 +4,6 @@
     "chai": "1.10.*",
     "phantomjs": "1.9.*",
     "mocha-phantomjs": "3.5.*",
-    "semver": "~4.2.0"
+    "semver": "~7.3.2"
   }
 }
