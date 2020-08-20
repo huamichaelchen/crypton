@@ -15,7 +15,7 @@
     "crypton-server": "bin/cli.js"
   },
   "dependencies": {
-    "bcrypt": "0.8.x",
+    "bcrypt": "5.0.x",
     "colors": "0.6.x",
     "commander": "1.1.x",
     "connect": "2.7.x",
